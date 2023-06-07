@@ -136,7 +136,7 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![Screenshot 2023-06-05 193251](https://github.com/SAILESHKUMAR33/mathserver/assets/113497410/887cdf6d-fc2a-4ffa-ac48-b4af945e8944)
+![image](https://github.com/SAILESHKUMAR33/mathserver/assets/113497410/314dacff-4110-4c0a-a596-34175b7bd6de)
 
 
 ## HOME PAGE:
